@@ -1,0 +1,5 @@
+•Build a function which:
+– takes as input a data frame, and the two elements of a frame that you want to model
+–Plot the data fit with a smoothing spline with the default cross validation, vs the smoothing spline with 2 degrees of freedom (linear fit).
+–Test the difference of fit using the F test
+–Plot the normal quantile quantile plots for the residuals
